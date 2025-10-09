@@ -94,8 +94,10 @@ async function analyzeOutfit(imagePath) {
     messages: [
       {
         role: "system",
-        content:
-          "You are a fashion image analysis expert that helps users find similar clothing online.",
+        content: `
+You are a professional fashion image analysis assistant.
+Identify every distinct visible clothing or accessory item in the outfit — including tops, bottoms, outerwear, shoes, bags, belts, and jewelry.
+Your goal is to describe each item precisely enough that a person could search it on Google or a shopping site and find a very similar product.`,
       },
       {
         role: "user",
@@ -103,27 +105,23 @@ async function analyzeOutfit(imagePath) {
           {
             type: "text",
             text: `
-Analyze this outfit image and return JSON structured like this:
+Analyze this outfit image and return JSON strictly in this format:
+
 {
   "items": [
     {
-      "item_name": "tshirt / jacket / jeans / etc",
-      "search_phrase": "a natural 8–10 word Google search style sentence describing this exact product including color, fit, neckline, sleeve length, texture, material, visible logo/text, and article type. Do not use punctuation or full stops."
+      "item_name": "generic name like tshirt, jeans, jacket, shoes, belt, sunglasses, etc.",
+      "search_phrase": "one natural 8–10 word Google-style search sentence describing this exact product including color, fit, neckline, sleeve length, texture/material, visible logo or text, and article type. No punctuation or full stops."
     }
   ]
 }
 
-Example:
-{
-  "items": [
-    {
-      "item_name": "cardigan",
-      "search_phrase": "boxy ribbed beige button down cardigan for women"
-    }
-  ]
-}
-
-Return only valid JSON, no explanations.
+Guidelines:
+- Include all clearly visible items (tops, pants, jackets, skirts, dresses, shoes, bags, belts, watches, sunglasses, jewelry, etc.).
+- Be specific but concise.
+- Keep search_phrase human and natural (how someone would actually type into Google).
+- Do not include sizes, brands, or prices.
+- Return only valid JSON — no extra text, commentary, or markdown.
 `,
           },
           {
@@ -137,6 +135,8 @@ Return only valid JSON, no explanations.
     ],
     response_format: { type: "json_object" },
   });
+
+  console.log(`🔍 Raw API Response: ${response.choices[0].message.content}`);
 
   const jsonResponse = response.choices[0].message.content;
   const parsed = JSON.parse(jsonResponse);
