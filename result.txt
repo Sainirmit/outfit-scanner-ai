@@ -1,132 +1,106 @@
 🇮🇳 👕 Outfit Analysis Results (India)
 
-#1. female - cardigan
-   1) H&M Ladies Collared Cardigan
-      💰 Price: ₹2,999
-      🛍️ Source: H&M
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female beige ribbed cardigan with buttons and long sleeves&prds=localAnnotatedOfferId:1,catalogid:2917287353518800366,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   2) CREATIVE LINE Cable Knit Woollen Cardigan
-      💰 Price: ₹2,056
+#1. female - jumpsuit
+   1) Mango Strapless Denim Jumpsuit
+      💰 Price: ₹2,316
       🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female beige ribbed cardigan with buttons and long sleeves&prds=localAnnotatedOfferId:1,catalogid:14558063163186843121,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=strapless navy denim jumpsuit with wide leg pants and buttons&prds=localAnnotatedOfferId:1,catalogid:3687189597979342662,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   3) Burberry Women's Wool Cardigan
-      💰 Price: ₹50,759.56
-      🛍️ Source: FWRD India
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female beige ribbed cardigan with buttons and long sleeves&prds=localAnnotatedOfferId:1,catalogid:3230844144013515201,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+   2) Black Denim Buttoned Jumpsuit
+      💰 Price: ₹2,390
+      🛍️ Source: Bluer
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=strapless navy denim jumpsuit with wide leg pants and buttons&prds=localAnnotatedOfferId:1,catalogid:11433346380056848137,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   4) eWools Women's Round Neck Wool Cardigan
-      💰 Price: ₹750
+   3) DRAPE AND DAZZLE Stretchable Denim Bell Bottom Jumpsuit With Buttons At Front Jumpsuit For Women_DD-082
+      💰 Price: ₹1,220
       🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female beige ribbed cardigan with buttons and long sleeves&prds=localAnnotatedOfferId:1,catalogid:14059885870970624993,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=strapless navy denim jumpsuit with wide leg pants and buttons&prds=localAnnotatedOfferId:1,catalogid:10658225623359959973,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   5) Arket Women's Rib-knitted Cardigan - Light Beige
-      💰 Price: ₹4,169.66
-      🛍️ Source: Kinship
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female beige ribbed cardigan with buttons and long sleeves&prds=localAnnotatedOfferId:1,productid:8497884699666132348,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-#2. female - tshirt
-   1) Max Women's Solid Round Neck T-Shirt
-      💰 Price: ₹179
-      🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female white short sleeve t-shirt with crew neckline&prds=localAnnotatedOfferId:1,catalogid:14211067450472514132,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   2) SMOWKLY Women's Crew-Neck Short Sleeve T-Shirt
-      💰 Price: ₹444
-      🛍️ Source: AJIO.com
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female white short sleeve t-shirt with crew neckline&prds=localAnnotatedOfferId:1,catalogid:2394858844922807289,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   3) NEXT Women's Essential Pure Cotton Short Sleeve Crew Neck T-Shirt
-      💰 Price: ₹399
-      🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female white short sleeve t-shirt with crew neckline&prds=localAnnotatedOfferId:1,catalogid:1222210248104842519,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   4) Allen Solly Women's Solid Casual T-Shirt
-      💰 Price: ₹349
-      🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female white short sleeve t-shirt with crew neckline&prds=localAnnotatedOfferId:1,catalogid:18229734188403651865,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   5) H&M Ladies Cotton T-shirt
-      💰 Price: ₹699
-      🛍️ Source: H&M
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female white short sleeve t-shirt with crew neckline&prds=localAnnotatedOfferId:1,catalogid:17107964076570851508,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-#3. female - jeans
-   1) StyleCast Women Wide Leg High-Rise Heavy Fade Denim Jeans
+   4) Women's Navy Blue Off Shoulder Jumpsuit
       💰 Price: ₹1,139
       🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female high waisted blue denim jeans with wide leg fit&prds=localAnnotatedOfferId:1,catalogid:8645591866887477167,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=strapless navy denim jumpsuit with wide leg pants and buttons&prds=localAnnotatedOfferId:1,catalogid:6245358719667088906,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   2) KOTTY High Waist Wide Fit Jeans Women's – Relaxed Denim with Wide Leg
-      💰 Price: ₹475
-      🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female high waisted blue denim jeans with wide leg fit&prds=localAnnotatedOfferId:1,catalogid:15609274934986770213,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+   5) Savana Dark Blue Buttoned Denim Jumpsuit
+      💰 Price: ₹2,290
+      🛍️ Source: Savana
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=strapless navy denim jumpsuit with wide leg pants and buttons&prds=localAnnotatedOfferId:1,catalogid:4658988108500479106,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   3) Nuon Westside Wide-Leg Denim Jeans Female
-      💰 Price: ₹999
-      🛍️ Source: Westside
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female high waisted blue denim jeans with wide leg fit&prds=localAnnotatedOfferId:1,catalogid:13765042159429061523,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   4) Aadvi Fashion Women Jean Wide Leg High-Rise Light Fade Stretchable Jeans by Myntra
-      💰 Price: ₹787
+#2. female - handbag
+   1) MIRAGGIO Blair Tan Structured Handbag with Detachable Crossbody Strap (M) by Myntra
+      💰 Price: ₹2,429
       🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female high waisted blue denim jeans with wide leg fit&prds=localAnnotatedOfferId:1,catalogid:1967978915350759486,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=small brown shoulder handbag with short strap&prds=localAnnotatedOfferId:1,catalogid:1969422525248384049,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   5) Zara Trf Wide-Leg High-Waist Full-Length Jeans
-      💰 Price: ₹2,150
-      🛍️ Source: Zara IN
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female high waisted blue denim jeans with wide leg fit&prds=localAnnotatedOfferId:1,catalogid:13578076218564945032,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-#4. female - belt
-   1) MIppo Women's Leather Jeans Belt
-      💰 Price: ₹1,419
-      🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black leather belt with simple buckle&prds=localAnnotatedOfferId:1,catalogid:15352788826800837121,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   2) Ginger By Lifestyle Women's Casual Genuine Leather Belt
-      💰 Price: ₹335
-      🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black leather belt with simple buckle&prds=localAnnotatedOfferId:1,catalogid:6791422253947621931,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   3) Daller Casual Evening Formal Party Belt
-      💰 Price: ₹222
+   2) Swag Saheli Chic Ruched Handle Shoulder Bag
+      💰 Price: ₹1,499
       🛍️ Source: Flipkart
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black leather belt with simple buckle&prds=localAnnotatedOfferId:1,catalogid:1769679499711686477,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=small brown shoulder handbag with short strap&prds=localAnnotatedOfferId:1,catalogid:9496609922111874465,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   4) Aditi Wasan Women's Sleek Black Design Leather Belt
-      💰 Price: ₹759
+   3) Lavie Women's Sara Sling Bag
+      💰 Price: ₹599
       🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black leather belt with simple buckle&prds=localAnnotatedOfferId:1,catalogid:8566782663452094813,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=small brown shoulder handbag with short strap&prds=localAnnotatedOfferId:1,catalogid:266086879747197709,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   5) Van Heusen Women's Textured Casual Belt
-      💰 Price: ₹699
-      🛍️ Source: AJIO.com
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black leather belt with simple buckle&prds=localAnnotatedOfferId:1,catalogid:1560213164075243559,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-#5. female - shoes
-   1) JM LOOKS Women's Kitten Heel Ankle Pointed Toe Stiletto Booties
-      💰 Price: ₹799
-      🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black ankle boots with pointed toe and low heel&prds=localAnnotatedOfferId:1,catalogid:11691147091892786590,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
-
-   2) The Roadster Lifestyle Co Women's Pointed Toe Block Heeled Chelsea Boots
-      💰 Price: ₹1,450
+   4) Myntra Women's Office Shoulder Sling Bag
+      💰 Price: ₹645
       🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black ankle boots with pointed toe and low heel&prds=localAnnotatedOfferId:1,catalogid:9353530006566239610,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=small brown shoulder handbag with short strap&prds=localAnnotatedOfferId:1,catalogid:5921147435126513812,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   3) Comfortable Stylish Ankle Boots
-      💰 Price: ₹2,391
-      🛍️ Source: AJIO.com
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black ankle boots with pointed toe and low heel&prds=localAnnotatedOfferId:1,catalogid:6663096731793311102,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+   5) Toteteca Women's Summer Mini Handbag Set of 2
+      💰 Price: ₹896
+      🛍️ Source: Nykaa
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=small brown shoulder handbag with short strap&prds=localAnnotatedOfferId:1,catalogid:5275447456552157362,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   4) Stylestry Women's Pointed Toe Mid Top Regular Boots
-      💰 Price: ₹743
+#3. female - sunglasses
+   1) Roadster Men's UV Protected Rectangle Sunglass
+      💰 Price: ₹499
       🛍️ Source: Myntra
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black ankle boots with pointed toe and low heel&prds=localAnnotatedOfferId:1,catalogid:8349176631027718597,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=black oversized rectangular sunglasses with thin frame&prds=localAnnotatedOfferId:1,catalogid:5622333179901693633,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
-   5) Shoetopai Women's Block Heel Ankle Boots
-      💰 Price: ₹655
+   2) FUNGLASSES Narrow Rectangle UV Protected Sunglasses For Men Women
+      💰 Price: ₹299
       🛍️ Source: Amazon.in
-      🔗 Link: https://www.google.com/search?ibp=oshop&q=female black ankle boots with pointed toe and low heel&prds=localAnnotatedOfferId:1,catalogid:13212372447811311163,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=black oversized rectangular sunglasses with thin frame&prds=localAnnotatedOfferId:1,catalogid:3432702520592756541,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   3) VALWICK Black Rectangular Karan Aujla Sunglass For Men And Women 400 UV Protection
+      💰 Price: ₹135
+      🛍️ Source: Meesho
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=black oversized rectangular sunglasses with thin frame&prds=localAnnotatedOfferId:1,catalogid:1728882588925738761,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   4) Peter Jones Unisex Oversized UV/UB Protected Sunglasses
+      💰 Price: ₹559
+      🛍️ Source: Amazon.in
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=black oversized rectangular sunglasses with thin frame&prds=localAnnotatedOfferId:1,catalogid:6481731207964434357,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   5) Carlton London Men's UV Protected Rectangle Lens Sunglasses
+      💰 Price: ₹1,173
+      🛍️ Source: Myntra
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=black oversized rectangular sunglasses with thin frame&prds=localAnnotatedOfferId:1,catalogid:8439829126963834971,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+#4. female - shoes
+   1) Myntra Denill Pointed Toe Kitten Heeled Pumps
+      💰 Price: ₹568
+      🛍️ Source: Myntra
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=red pointed toe heels with low profile design&prds=localAnnotatedOfferId:1,catalogid:9537670135705921083,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   2) Diva Looks Women's Stiletto Heels
+      💰 Price: ₹999
+      🛍️ Source: Amazon.in
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=red pointed toe heels with low profile design&prds=localAnnotatedOfferId:1,catalogid:2148357145323944784,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   3) MIJAS Women's Pointed-Toe Kitten Heeled Shoes
+      💰 Price: ₹800
+      🛍️ Source: AJIO.com
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=red pointed toe heels with low profile design&prds=localAnnotatedOfferId:1,catalogid:12781495199922819449,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   4) Lavie PU Pointed Toe Kitten Heel Pumps(7) by Myntra
+      💰 Price: ₹839
+      🛍️ Source: Myntra
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=red pointed toe heels with low profile design&prds=localAnnotatedOfferId:1,productid:9723083816066720346,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
+
+   5) GNIST Classy Pointed Kitten Mules Heels
+      💰 Price: ₹1,400
+      🛍️ Source: Nykaa
+      🔗 Link: https://www.google.com/search?ibp=oshop&q=red pointed toe heels with low profile design&prds=localAnnotatedOfferId:1,catalogid:10970393076874611468,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=in&udm=28&pvorigin=2
 
